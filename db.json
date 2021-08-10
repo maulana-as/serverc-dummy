@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "id": "f5af65fc-8d9d-4d15-8079-cd180c6972ba",
+      "name": "Sabun Colek",
+      "harga_jual": "3000",
+      "harga_beli": "29000",
+      "stok": "20"
+    },
+    {
+      "id": "3b24a661-dae9-4fc3-8e53-928a85481b4f",
+      "name": "Sampo  Sunsilk",
+      "harga_jual": "2000",
+      "harga_beli": "1800",
+      "stok": "20"
+    }
+  ]
+}
